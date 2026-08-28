@@ -1,10 +1,37 @@
-[
-  {
-    "title": "Cave Story (NXEngine)",
-    "author": "carstene1ns",
-    "category": "Juegos",
-    "version": "2.6.4",
-    "description": "Port nativo del clásico juego indie Cave Story para Nintendo Switch.",
-    "url": "https://github.com/carstene1ns/nxengine-evo/releases/download/v2.6.4-1/nxengine-evo-v2.6.4-1.zip"
+ "Bully": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/bull.png"
+  },
+"Grand Theft Auto: San Andreas": {
+    "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/g54.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/g54.png"
+  },
+  "Grand Theft Auto: Chinatown Wars": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4CTW.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtacw.png"
+  },
+  "Grand Theft Auto: Liberty City Stories": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/GT4LCS.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/gtalcs.png"
+  },
+  "Crazy Taxi": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/crt.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/crt.png"
+  },
+  "The Simpsons: Hit And Run": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Simp-H-A-R.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/simp.png"
+  },
+  "TLOZ: Twilight Princess": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Dusk.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldatp.png"
+  },
+  "TLOZ: Majoras Mask": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Majoras2s2h.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldamm.png"
+  },
+  "TLOZ: Ocarina of Time": {
+    "url": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/soh.zip",
+    "icon": "https://raw.githubusercontent.com/alucardiio-yt/archives-nx/main/ports-icons/zeldaott.png"
   }
-]
+}
