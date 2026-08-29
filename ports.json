@@ -1,7 +1,7 @@
 {
   "Grand Theft Auto V": {
-   "url": "https://archive.org/download/gtav-switch-completo/GTAV-SwitchCompleto.zip"
-   "icon": "https://github.com/iBetaLab/Images/blob/31915c41e7836144e152fdb2e3405f41dbc69509/grand-theft-auto-v.png"
+    "url": "https://archive.org/download/gtav-switch-completo/GTAV-SwitchCompleto.zip",
+    "icon": "https://raw.githubusercontent.com/iBetaLab/Images/main/grand-theft-auto-v.png"
   },
   "Bully": {
     "url": "https://pub-54a7fb780bd74a5c82cf34d272eac965.r2.dev/bull.zip",
