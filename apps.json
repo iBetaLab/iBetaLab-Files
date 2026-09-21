@@ -2,5 +2,6 @@
   "APP: PipenSX (1.4.1)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/pipensx.zip",
   "APP: Chiaki (2.2.0)": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/Chiaki.2.2.0.zip",
   "EMU: Tico + Cores/Bios": "https://github.com/alucardiio-yt/retrosw/releases/download/21.2.0/tico-0.7.2.zip",
-  "APP: Horizon OC (Overclock)": "https://github.com/Horizon-OC/Horizon-OC/releases/download/2.4.0/dist.zip"
+  "APP: Horizon OC (Overclock)": "https://github.com/Horizon-OC/Horizon-OC/releases/download/2.4.0/dist.zip",
+  "APP: Sphaira": "https://github.com/iBetaLab/Apps/blob/main/sphaira.nro"
 }
